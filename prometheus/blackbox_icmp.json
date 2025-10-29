@@ -1,0 +1,12 @@
+[
+  {"targets": ["google.com"], "labels": {"instance": "google.com", "lat": "37.4219999", "lon": "-122.085", "region": "US-West"}},
+  {"targets": ["amazon.com"], "labels": {"instance": "amazon.com", "lat": "47.6062095", "lon": "-122.332071", "region": "US-West"}},
+  {"targets": ["microsoft.com"], "labels": {"instance": "microsoft.com", "lat": "47.6408371", "lon": "-122.133301", "region": "US-West"}},
+  {"targets": ["apple.com"], "labels": {"instance": "apple.com", "lat": "37.331749", "lon": "-122.031733", "region": "US-West"}},
+  {"targets": ["facebook.com"], "labels": {"instance": "facebook.com", "lat": "37.484811", "lon": "-122.145147", "region": "US-West"}},
+  {"targets": ["youtube.com"], "labels": {"instance": "youtube.com", "lat": "37.4219999", "lon": "-122.085", "region": "US-West"}},
+  {"targets": ["wikipedia.org"], "labels": {"instance": "wikipedia.org", "lat": "37.751", "lon": "-122.419415", "region": "US-West"}},
+  {"targets": ["cloudflare.com"], "labels": {"instance": "cloudflare.com", "lat": "34.052235", "lon": "-118.243683", "region": "US-West"}},
+  {"targets": ["1.1.1.1"], "labels": {"instance": "1.1.1.1", "lat": "-41.288889", "lon": "174.777236", "region": "APAC"}},
+  {"targets": ["8.8.8.8"], "labels": {"instance": "8.8.8.8", "lat": "37.4219999", "lon": "-122.085", "region": "US-West"}}
+]
