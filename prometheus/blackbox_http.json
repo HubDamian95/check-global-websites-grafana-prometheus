@@ -1,0 +1,17 @@
+[
+  {"targets": ["github.com"], "labels": {"instance": "github.com", "lat": "37.7749295", "lon": "-122.419415", "region": "US-West"}},
+  {"targets": ["netflix.com"], "labels": {"instance": "netflix.com", "lat": "37.3382082", "lon": "-121.88424", "region": "US-West"}},
+  {"targets": ["x.com"], "labels": {"instance": "x.com", "lat": "37.7749295", "lon": "-122.419415", "region": "US-West"}},
+  {"targets": ["ec2.us-east-1.amazonaws.com"], "labels": {"instance": "ec2.us-east-1.amazonaws.com", "lat": "38.889464", "lon": "-77.43305", "region": "US-East"}},
+  {"targets": ["ec2.us-west-2.amazonaws.com"], "labels": {"instance": "ec2.us-west-2.amazonaws.com", "lat": "45.038989", "lon": "-123.120094", "region": "US-West"}},
+  {"targets": ["ec2.eu-west-1.amazonaws.com"], "labels": {"instance": "ec2.eu-west-1.amazonaws.com", "lat": "53.342788", "lon": "-6.2597", "region": "EU-West"}},
+  {"targets": ["ec2.ap-southeast-1.amazonaws.com"], "labels": {"instance": "ec2.ap-southeast-1.amazonaws.com", "lat": "1.352083", "lon": "103.819836", "region": "AP-Southeast"}},
+  {"targets": ["ec2.sa-east-1.amazonaws.com"], "labels": {"instance": "ec2.sa-east-1.amazonaws.com", "lat": "-23.55052", "lon": "-46.633309", "region": "SA-East"}},
+  {"targets": ["ec2.ca-central-1.amazonaws.com"], "labels": {"instance": "ec2.ca-central-1.amazonaws.com", "lat": "45.42153", "lon": "-75.697193", "region": "CA-Central"}},
+  {"targets": ["management.azure.com"], "labels": {"instance": "management.azure.com", "lat": "47.6408371", "lon": "-122.133301", "region": "Global"}},
+  {"targets": ["eastus.management.azure.com"], "labels": {"instance": "eastus.management.azure.com", "lat": "38.889464", "lon": "-77.43305", "region": "US-East"}},
+  {"targets": ["westus2.management.azure.com"], "labels": {"instance": "westus2.management.azure.com", "lat": "33.448376", "lon": "-112.089877", "region": "US-West2"}},
+  {"targets": ["westeurope.management.azure.com"], "labels": {"instance": "westeurope.management.azure.com", "lat": "52.367573", "lon": "4.887619", "region": "EU-West"}},
+  {"targets": ["southeastasia.management.azure.com"], "labels": {"instance": "southeastasia.management.azure.com", "lat": "1.352083", "lon": "103.750009", "region": "AP-Southeast"}},
+  {"targets": ["brazilsouth.management.azure.com"], "labels": {"instance": "brazilsouth.management.azure.com", "lat": "-23.55052", "lon": "-46.633309", "region": "SA-South"}}
+]
