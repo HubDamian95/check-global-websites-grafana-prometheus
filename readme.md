@@ -81,6 +81,6 @@ sudo ufw allow 3000/tcp  # Grafana
 
 # 7. DONE
 IP=$(hostname -I | awk '{print $1}')
-echo "Grafana: http://$IP:3000 (admin/admin)"
+echo "Grafana: http://$IP:3000 (admin/admin) by default"
 echo "Prometheus: http://$IP:9090"
 echo "Blackbox: http://$IP:9115"
