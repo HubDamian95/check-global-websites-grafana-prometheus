@@ -7,8 +7,11 @@ Quick prometheus-grafana project to do web observability project
 https://github.com/HubDamian95/check-global-websites-grafana-prometheus/blob/main/grafana_dashboard/dashboard.json contains the dashboard.
 
 https://github.com/HubDamian95/check-global-websites-grafana-prometheus/blob/main/prometheus/blackbox_http.json contains HTTP endpoints
+
 https://github.com/HubDamian95/check-global-websites-grafana-prometheus/blob/main/prometheus/blackbox_icmp.json contains ICMP endpoints
+
 https://github.com/HubDamian95/check-global-websites-grafana-prometheus/blob/main/prometheus/prometheus.yml contains main prometheus data to poll 
+
 
 Install prometheus and grafana-server locally.
 
