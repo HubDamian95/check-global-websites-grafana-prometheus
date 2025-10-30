@@ -1,7 +1,8 @@
 # Global Website Latency Map  
 **Prometheus + Blackbox + Grafana = Live World Observability**
 
-<img width="2335" height="1343" alt="Global Latency Map" src="https://github.com/user-attachments/assets/81c62a7b-d57e-484b-a051-4c31746e6b65" />
+<img width="2546" height="1387" alt="image" src="https://github.com/user-attachments/assets/f15a5d1d-54f7-45ae-84d4-414b72ff19f5" />
+
 
 > **25+ global targets** | **ICMP + HTTP** | **Live latency heatmap** | **Dark CartoDB map**
 
